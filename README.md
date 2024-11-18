@@ -23,7 +23,7 @@ Passionate about building scalable applications and diving deep into cloud-nativ
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 ## Languages and Tools  
-<table>
+<table width="100%">
     <tr>
         <td valigh="top" width="40%">Languages</td>
         <td>
