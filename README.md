@@ -25,7 +25,7 @@ Passionate about building scalable applications and diving deep into cloud-nativ
 ## Languages and Tools  
 <table>
     <tr>
-        <td valigh="top" width="30%">Languages</td>
+        <td valigh="top" width="40%">Languages</td>
         <td>
             <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
             <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>
