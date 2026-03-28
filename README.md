@@ -13,7 +13,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-### 🌟 Full-stack Developer | Cloud Enthusiast | Microservices Specialist 🌟  
+### 🌟 Full-stack Developer | Cloud Enthusiast | Microservices 🌟  
 Passionate about building scalable applications and diving deep into cloud-native architectures. My focus lies in designing clean, efficient code and implementing innovative solutions.  
   
 ## Rapidfire  
